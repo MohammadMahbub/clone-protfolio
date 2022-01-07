@@ -161,10 +161,10 @@ function App() {
                                     </div>
                                 </div>
                             </div>
-                            {/* DO NOT REMOVE/MODIFY THE FOOTER. FOR MORE INFO https://github.com/arifszn/ezprofile#-please-read */}
+                            {/* DO NOT REMOVE/MODIFY THE FOOTER. FOR MORE INFO https://github.com/MohammadMahbub?tab=repositories#-please-read */}
                             <footer className="p-4 footer bg-base-200 text-base-content footer-center">
                                 <div>
-                                    <p className="font-mono text-sm">Made with <a className="text-primary" href="https://github.com/arifszn/ezprofile" target="_blank" rel="noreferrer">ezProfile</a> and ❤️</p>
+                                    <p className="font-mono text-sm">copyright by <a className="text-primary" href="https://github.com/arifszn/ezprofile" target="_blank" rel="noreferrer">MohammadMahbub</a> and ❤️2022</p>
                                 </div>
                             </footer>
                         </Fragment>
